@@ -16,6 +16,7 @@
 ---
 
 ## 📖 Quick Links
+- [🚀 Setup Guide](SETUP.md)
 - [🔍 Search](# "Use Ctrl+/ to search")
 - [📁 Add Content](# "Create new .md files in docs/ folder")
 - [⚙️ Settings](# "Configure in index.html")
