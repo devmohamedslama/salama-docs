@@ -1,14 +1,21 @@
-## 📚 Salama
+## 📚 Home
+- [🏠 Home](README.md)
 
-- [ASO Strategy](ASLY_ASO_PLAN.md)
+## 📈 Strategy
+- [ASO Strategy](docs/strategy/ASLY_ASO_PLAN.md)
 
 ## 🧠 Research
+- [🤖 AI Concepts](docs/research/ai-concepts.md)
+- [🏗️ System Design](docs/research/system-design.md)
+- [📱 Mobile Architecture](docs/research/mobile-architecture.md)
 
-- AI Concepts
-- System Design
-- Mobile Architecture
+## 🛠️ Personal
+- [💡 Ideas](docs/personal/ideas.md)
+- [🧪 Experiments](docs/personal/experiments.md)
 
-## 🛠 Personal
+---
 
-- Ideas
-- Experiments
+## 📖 Quick Links
+- [🔍 Search](# "Use Ctrl+/ to search")
+- [📁 Add Content](# "Create new .md files in docs/ folder")
+- [⚙️ Settings](# "Configure in index.html")
