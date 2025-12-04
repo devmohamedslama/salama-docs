@@ -1,75 +1,40 @@
-# 🚀 Welcome to Salama Docs
+# Salama Documentation
 
-> ✨ A modern, comprehensive knowledge base and documentation hub for professional development, research, and innovation.
+**Salama Docs** is a comprehensive knowledge base covering professional development, technical research, and innovation projects. This documentation serves as a centralized repository for strategies, research findings, and experimental work.
 
-<div align="center">
+## Overview
 
-![Version](https://img.shields.io/badge/version-2.0-blue.svg)
-![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+The documentation is organized into four main categories:
 
-</div>
+**Strategy & Growth** — Business strategies, ASO optimization plans, and marketing frameworks for sustainable growth and market positioning.
 
-## 🌟 What You'll Find Here
+**Technical Research** — In-depth analysis of emerging technologies, system architecture patterns, artificial intelligence concepts, and mobile development methodologies.
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
+**Innovation Lab** — Experimental projects, proof-of-concepts, creative ideas, and learning initiatives that push the boundaries of conventional approaches.
 
-### 📈 Business Strategy
-Comprehensive plans and strategies for growth, including ASO optimization, marketing tactics, and business development frameworks.
+**Resources** — Setup guides, contributing guidelines, and configuration documentation to help users navigate and extend the knowledge base.
 
-### 🧠 Technical Research  
-Deep dives into cutting-edge technologies, system architecture patterns, AI concepts, and mobile development best practices.
+## Contents
 
-### 🛠️ Personal Innovation
-Creative experiments, proof-of-concepts, learning projects, and innovative ideas in development.
+1. **[ASO Strategy](docs/strategy/ASLY_ASO_PLAN.md)** — App Store Optimization methodologies and implementation frameworks
+2. **[AI Concepts](docs/research/ai-concepts.md)** — Fundamental artificial intelligence principles and applications
+3. **[System Design](docs/research/system-design.md)** — Architecture patterns and scalability considerations
+4. **[Mobile Architecture](docs/research/mobile-architecture.md)** — Platform-specific development approaches and best practices
+5. **[Ideas & Concepts](docs/personal/ideas.md)** — Innovative project concepts and creative solutions
+6. **[Experiments](docs/personal/experiments.md)** — Active research projects and proof-of-concepts
 
-### 📚 Knowledge Repository
-Curated resources, documentation templates, and reference materials for continuous learning.
+## Navigation
 
-</div>
+Use the sidebar navigation to browse content by category, or utilize the search functionality to find specific topics. All documentation is written in Markdown and automatically rendered through Docsify.
 
-## 🎯 Quick Navigation
+## Contributing
 
-<!-- tabs:start -->
+To add new documentation:
 
-#### **🚀 Get Started**
-
-**New here?** Start with our most popular sections:
-- 📊 [ASO Strategy Guide](docs/strategy/ASLY_ASO_PLAN.md) - Comprehensive app optimization 
-- 🤖 [AI Concepts](docs/research/ai-concepts.md) - Latest in artificial intelligence
-- 💡 [Innovation Ideas](docs/personal/ideas.md) - Creative project concepts
-
-#### **🔍 Explore**
-
-**Browse by category:**
-- **Strategy**: Business growth and optimization tactics
-- **Research**: Technical deep-dives and system architecture  
-- **Innovation**: Experimental projects and creative solutions
-
-#### **📝 Contribute**
-
-**Add your own content:**
-1. Create `.md` files in the `docs/` folder
-2. Update `_sidebar.md` with navigation links
-3. Your content appears automatically!
-
-<!-- tabs:end -->
-
-## 💫 Features
-
-✨ **Modern Design** - Clean, professional interface with smooth animations  
-🔍 **Smart Search** - Find any content instantly with full-text search  
-📱 **Mobile Ready** - Optimized for all devices and screen sizes  
-⚡ **Fast Loading** - Optimized performance for quick access  
-🎨 **Syntax Highlighting** - Beautiful code blocks with copy functionality  
-🔗 **Easy Navigation** - Intuitive sidebar with organized sections  
+1. Create Markdown files in the appropriate `docs/` subdirectory
+2. Update `_sidebar.md` to include navigation links
+3. Content will be automatically available through the web interface
 
 ---
 
-<div align="center">
-
-**Ready to explore?** Use the sidebar navigation or search above to dive into any topic! 
-
-*Documentation powered by Docsify • Updated December 2024*
-
-</div>
+*This documentation is maintained as part of ongoing research and development activities.*
